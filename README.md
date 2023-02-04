@@ -1,2 +1,2 @@
-# practicum.yandex
+# practicum.yandex DS
 учебные проекты
